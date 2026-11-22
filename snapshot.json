@@ -1,0 +1,897 @@
+{
+  "generated_at": "2026-11-22T07:31:19+00:00",
+  "timezone": "Europe/Warsaw",
+  "records": [
+    {
+      "id": "https://bossa.pl/oferta/otwarcie-rachunku",
+      "title": "Otwarcie rachunku | Dom Maklerski Banku Ochrony Środowiska",
+      "actor": "Dom Maklerski Banku Ochrony Środowiska S.A.",
+      "url": "https://bossa.pl/oferta/otwarcie-rachunku",
+      "modules": [
+        "M2"
+      ],
+      "source": "WEB",
+      "mode": "REAL",
+      "kind": "WEB_PAGE",
+      "published": "",
+      "first_seen": "2026-11-22T06:35:45+00:00",
+      "last_seen": "2026-11-22T06:52:56+00:00",
+      "authorization": "MATCHED_IN_SCOPE",
+      "risk": "LOW",
+      "score": 10,
+      "findings": [
+        {
+          "module": "M2",
+          "points": 10,
+          "quotes": [],
+          "rule_id": "R09",
+          "text": "Zrozumiałość. Ostrzeżenie zawiera żargon lub rozbudowane zdanie. Zweryfikuj zrozumiałość dla odbiorcy."
+        },
+        {
+          "module": "M2",
+          "points": 0,
+          "quotes": [],
+          "text": "Materiał marketingowy powiązano z firmą z kartoteki."
+        }
+      ],
+      "companies": [
+        {
+          "name": "Dom Maklerski Banku Ochrony Środowiska S.A.",
+          "registry_url": "https://www.knf.gov.pl/podmioty/Podmioty_rynku_kapitalowego/Firmy_inwestycyjne_i_Agenci_firm_inwestycyjnych/domy_maklerskie",
+          "registry_checked_at": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "https://www.bdm.pl/bdm-podstawowy",
+      "title": "BDM Podstawowy rachunek inwestycyjny, konto maklerskie - BDM",
+      "actor": "Dom Maklerski BDM S.A.",
+      "url": "https://www.bdm.pl/bdm-podstawowy",
+      "modules": [
+        "M2"
+      ],
+      "source": "WEB",
+      "mode": "REAL",
+      "kind": "WEB_PAGE",
+      "published": "",
+      "first_seen": "2026-11-22T07:14:19+00:00",
+      "last_seen": "2026-11-22T07:19:24+00:00",
+      "authorization": "MATCHED_IN_SCOPE",
+      "risk": "LOW",
+      "score": 10,
+      "findings": [
+        {
+          "module": "M2",
+          "points": 10,
+          "quotes": [],
+          "rule_id": "R09",
+          "text": "Zrozumiałość. Ostrzeżenie zawiera żargon lub rozbudowane zdanie. Zweryfikuj zrozumiałość dla odbiorcy."
+        },
+        {
+          "module": "M2",
+          "points": 0,
+          "quotes": [],
+          "text": "Materiał marketingowy powiązano z firmą z kartoteki."
+        }
+      ],
+      "companies": [
+        {
+          "name": "Dom Maklerski BDM S.A.",
+          "registry_url": "https://www.knf.gov.pl/podmioty/Podmioty_rynku_kapitalowego/Firmy_inwestycyjne_i_Agenci_firm_inwestycyjnych/domy_maklerskie",
+          "registry_checked_at": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "https://www.bm.pkobp.pl/oferta/rachunek-inwestycyjny",
+      "title": "Rachunek inwestycyjny",
+      "actor": "Powszechna Kasa Oszczędności Bank Polski S.A.",
+      "url": "https://www.bm.pkobp.pl/oferta/rachunek-inwestycyjny",
+      "modules": [
+        "M2"
+      ],
+      "source": "WEB",
+      "mode": "REAL",
+      "kind": "WEB_PAGE",
+      "published": "",
+      "first_seen": "2026-11-22T06:36:47+00:00",
+      "last_seen": "2026-11-22T06:52:58+00:00",
+      "authorization": "MATCHED_IN_SCOPE",
+      "risk": "LOW",
+      "score": 10,
+      "findings": [
+        {
+          "module": "M2",
+          "points": 10,
+          "quotes": [],
+          "rule_id": "R09",
+          "text": "Zrozumiałość. Ostrzeżenie zawiera żargon lub rozbudowane zdanie. Zweryfikuj zrozumiałość dla odbiorcy."
+        },
+        {
+          "module": "M2",
+          "points": 0,
+          "quotes": [],
+          "text": "Materiał marketingowy powiązano z firmą z kartoteki."
+        }
+      ],
+      "companies": [
+        {
+          "name": "Powszechna Kasa Oszczędności Bank Polski S.A.",
+          "registry_url": "https://www.knf.gov.pl/podmioty/Podmioty_rynku_kapitalowego/Firmy_inwestycyjne_i_Agenci_firm_inwestycyjnych/Banki_prowadzace_dzialalnosc_maklerska",
+          "registry_checked_at": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "https://www.tms.pl/konto-maklerskie",
+      "title": "Konto maklerskie i dostęp do giełdy | OANDA TMS",
+      "actor": "OANDA TMS Brokers S.A.",
+      "url": "https://www.tms.pl/konto-maklerskie",
+      "modules": [
+        "M2"
+      ],
+      "source": "WEB",
+      "mode": "REAL",
+      "kind": "WEB_PAGE",
+      "published": "",
+      "first_seen": "2026-11-22T06:34:29+00:00",
+      "last_seen": "2026-11-22T06:52:53+00:00",
+      "authorization": "MATCHED_IN_SCOPE",
+      "risk": "HIGH",
+      "score": 85,
+      "findings": [
+        {
+          "module": "M2",
+          "points": 85,
+          "quotes": [],
+          "rule_id": "R18",
+          "text": "Nadzór jako argument bezpieczeństwa. Wzmianka o organie występuje w tej samej wypowiedzi."
+        },
+        {
+          "module": "M2",
+          "points": 10,
+          "quotes": [],
+          "rule_id": "R09",
+          "text": "Zrozumiałość. Ostrzeżenie zawiera żargon lub rozbudowane zdanie. Zweryfikuj zrozumiałość dla odbiorcy."
+        },
+        {
+          "module": "M2",
+          "points": 0,
+          "quotes": [],
+          "text": "Materiał marketingowy powiązano z firmą z kartoteki."
+        }
+      ],
+      "companies": [
+        {
+          "name": "OANDA TMS Brokers S.A.",
+          "registry_url": "https://www.knf.gov.pl/podmioty/Podmioty_rynku_kapitalowego/Firmy_inwestycyjne_i_Agenci_firm_inwestycyjnych/domy_maklerskie?page=2",
+          "registry_checked_at": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "https://www.xtb.com/pl",
+      "title": "XTB - Inwestowanie, Oszczędności, Edukacja rynkowa | XTB",
+      "actor": "XTB S.A.",
+      "url": "https://www.xtb.com/pl",
+      "modules": [
+        "M2"
+      ],
+      "source": "WEB",
+      "mode": "REAL",
+      "kind": "WEB_PAGE",
+      "published": "",
+      "first_seen": "2026-11-22T04:52:45+00:00",
+      "last_seen": "2026-11-22T06:52:50+00:00",
+      "authorization": "MATCHED_IN_SCOPE",
+      "risk": "LOW",
+      "score": 10,
+      "findings": [
+        {
+          "module": "M2",
+          "points": 10,
+          "quotes": [],
+          "rule_id": "R09",
+          "text": "Zrozumiałość. Ostrzeżenie zawiera żargon lub rozbudowane zdanie. Zweryfikuj zrozumiałość dla odbiorcy."
+        },
+        {
+          "module": "M2",
+          "points": 0,
+          "quotes": [],
+          "text": "Materiał marketingowy powiązano z firmą z kartoteki."
+        }
+      ],
+      "companies": [
+        {
+          "name": "XTB S.A.",
+          "registry_url": "https://www.knf.gov.pl/podmioty/Podmioty_rynku_kapitalowego/Firmy_inwestycyjne_i_Agenci_firm_inwestycyjnych/domy_maklerskie?page=2",
+          "registry_checked_at": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "4ffd4405d399",
+      "title": "Przegląd finansów w niedzielę",
+      "actor": "sym_niedzielny_przeglad",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M1"
+      ],
+      "risk": "MEDIUM",
+      "score": 65,
+      "companies": [
+        {
+          "name": "Dom Inwestycyjny Latarnia Demo"
+        }
+      ],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:18:34.438650+00:00",
+      "last_seen": "2026-11-22T07:19:21.592670+00:00",
+      "analyzed_at": "2026-11-22T07:19:21.592670+00:00",
+      "findings": [
+        {
+          "module": "M1",
+          "text": "Ryzyko obok korzyści. Przy co najmniej jednej obietnicy korzyści nie odczytano ostrzeżenia.",
+          "points": 65,
+          "rule_id": "R03",
+          "quotes": [
+            "Polecam rachunek maklerski w Domu Inwestycyjnym Latarnia Demo. Użyj kodu START, żeby dostać 100 zł bonusu."
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Oznaczenie reklamy. Oznaczenia nie znaleziono w dostępnej próbce.",
+          "points": 15,
+          "rule_id": "R02",
+          "quotes": [
+            "Polecam rachunek maklerski w Domu Inwestycyjnym Latarnia Demo. Użyj kodu START, żeby dostać 100 zł bonusu."
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Oficjalna nazwa firmy. Zweryfikuj pełną nazwę firmy i jej status.",
+          "points": 8,
+          "rule_id": "R01",
+          "quotes": [
+            "Polecam rachunek maklerski w Domu Inwestycyjnym Latarnia Demo. Użyj kodu START, żeby dostać 100 zł bonusu."
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Polecam rachunek maklerski w Domu Inwestycyjnym Latarnia Demo. Użyj kodu START, żeby dostać 100 zł bonusu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8372cd23efb",
+      "title": "Sesja w aplikacji",
+      "actor": "sym_latarnia_demo",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M2"
+      ],
+      "risk": "MEDIUM",
+      "score": 65,
+      "companies": [
+        {
+          "name": "Dom Inwestycyjny Latarnia Demo"
+        }
+      ],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:17:32.914649+00:00",
+      "last_seen": "2026-11-22T07:18:13.411119+00:00",
+      "analyzed_at": "2026-11-22T07:18:13.411119+00:00",
+      "findings": [
+        {
+          "module": "M2",
+          "text": "Ryzyko obok korzyści. Przy co najmniej jednej obietnicy korzyści nie odczytano ostrzeżenia.",
+          "points": 65,
+          "rule_id": "R03",
+          "quotes": [
+            "zysk 24 procent."
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Oznaczenie reklamy. Oznaczenia nie znaleziono w dostępnej próbce.",
+          "points": 15,
+          "rule_id": "R02",
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Załóż konto maklerskie. Użyj kodu SESJA i dostań bonus na start."
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Załóż konto maklerskie. Użyj kodu SESJA i dostań bonus na start."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0aee707c38af",
+      "title": "Oferta dla nowego portfela",
+      "actor": "sym_latarnia_demo",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M2"
+      ],
+      "risk": "MEDIUM",
+      "score": 65,
+      "companies": [
+        {
+          "name": "Dom Inwestycyjny Latarnia Demo"
+        }
+      ],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:16:48.308584+00:00",
+      "last_seen": "2026-11-22T07:17:31.560056+00:00",
+      "analyzed_at": "2026-11-22T07:17:31.560056+00:00",
+      "findings": [
+        {
+          "module": "M2",
+          "text": "Ryzyko obok korzyści. Przy co najmniej jednej obietnicy korzyści nie odczytano ostrzeżenia.",
+          "points": 65,
+          "rule_id": "R03",
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Otwórz rachunek maklerski i użyj kodu AKCJE, żeby dostać 150 zł bonusu."
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Prognozy przyszłych wyników. Nie odczytano zastrzeżenia o przyszłych wynikach.",
+          "points": 60,
+          "rule_id": "R15",
+          "quotes": [
+            "Nasza prognoza cen: wartość"
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Oznaczenie reklamy. Oznaczenia nie znaleziono w dostępnej próbce.",
+          "points": 15,
+          "rule_id": "R02",
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Otwórz rachunek maklerski i użyj kodu AKCJE, żeby dostać 150 zł bonusu."
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Otwórz rachunek maklerski i użyj kodu AKCJE, żeby dostać 150 zł bonusu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "355037bd6a2a",
+      "title": "Dwie waluty, jedna stawka",
+      "actor": "sym_latarnia_demo",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M2"
+      ],
+      "risk": "LOW",
+      "score": 15,
+      "companies": [
+        {
+          "name": "Dom Inwestycyjny Latarnia Demo"
+        }
+      ],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:16:07.206938+00:00",
+      "last_seen": "2026-11-22T07:16:47.039257+00:00",
+      "analyzed_at": "2026-11-22T07:16:47.039257+00:00",
+      "findings": [
+        {
+          "module": "M2",
+          "text": "Oznaczenie reklamy. Oznaczenia nie znaleziono w dostępnej próbce.",
+          "points": 15,
+          "rule_id": "R02",
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Załóż konto maklerskie i użyj kodu WALUTA. Kod polecający daje bonus."
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Załóż konto maklerskie i użyj kodu WALUTA. Kod polecający daje bonus."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c2ce77042e0",
+      "title": "Rynkowa kawa przed pracą",
+      "actor": "sym_kawa_na_gieldzie",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M1"
+      ],
+      "risk": "MEDIUM",
+      "score": 65,
+      "companies": [
+        {
+          "name": "Dom Inwestycyjny Latarnia Demo"
+        }
+      ],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:15:26.201491+00:00",
+      "last_seen": "2026-11-22T07:16:06.031644+00:00",
+      "analyzed_at": "2026-11-22T07:16:06.031644+00:00",
+      "findings": [
+        {
+          "module": "M1",
+          "text": "Ryzyko obok korzyści. Przy co najmniej jednej obietnicy korzyści nie odczytano ostrzeżenia.",
+          "points": 65,
+          "rule_id": "R03",
+          "quotes": [
+            "Płatna współpraca z Domem Inwestycyjnym Latarnia Demo. Mój kod RANO daje 100 zł bonusu. Załóż konto maklerskie przez link."
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Oficjalna nazwa firmy. Zweryfikuj pełną nazwę firmy i jej status.",
+          "points": 8,
+          "rule_id": "R01",
+          "quotes": [
+            "Płatna współpraca z Domem Inwestycyjnym Latarnia Demo. Mój kod RANO daje 100 zł bonusu. Załóż konto maklerskie przez link."
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Płatna współpraca z Domem Inwestycyjnym Latarnia Demo. Mój kod RANO daje 100 zł bonusu. Załóż konto maklerskie przez link."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5090125fd61",
+      "title": "Moje trzy skróty w telefonie",
+      "actor": "sym_dziennik_notatek",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M1"
+      ],
+      "risk": "LOW",
+      "score": 15,
+      "companies": [
+        {
+          "name": "Dom Inwestycyjny Latarnia Demo"
+        }
+      ],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:14:29.792975+00:00",
+      "last_seen": "2026-11-22T07:15:14.706013+00:00",
+      "analyzed_at": "2026-11-22T07:15:14.706013+00:00",
+      "findings": [
+        {
+          "module": "M1",
+          "text": "Oznaczenie reklamy. Oznaczenia nie znaleziono w dostępnej próbce.",
+          "points": 15,
+          "rule_id": "R02",
+          "quotes": [
+            "Latarnia Demo, załóż konto"
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Oficjalna nazwa firmy. Zweryfikuj pełną nazwę firmy i jej status.",
+          "points": 8,
+          "rule_id": "R01",
+          "quotes": [
+            "Latarnia Demo, załóż konto"
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Latarnia Demo, załóż konto"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eb8e89294150",
+      "title": "Konsultacje dla rodzin",
+      "actor": "sym_klub_kapitalowy",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M3"
+      ],
+      "risk": "HIGH",
+      "score": 85,
+      "companies": [],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:12:48.449898+00:00",
+      "last_seen": "2026-11-22T07:13:28.440243+00:00",
+      "analyzed_at": "2026-11-22T07:13:28.440243+00:00",
+      "findings": [
+        {
+          "module": "M3",
+          "text": "Sygnał rekomendacji dopasowanej do odbiorcy dotyczącej instrumentu.",
+          "points": 85,
+          "rule_id": null,
+          "quotes": [
+            "Family office. Na podstawie twojej sytuacji wskażę, które akcje kupić i które obligacje sprzedać."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7389454b756c",
+      "title": "Twoja lista transakcji na kwartał",
+      "actor": "sym_warsztat_portfela",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M3"
+      ],
+      "risk": "HIGH",
+      "score": 85,
+      "companies": [],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:12:03.981785+00:00",
+      "last_seen": "2026-11-22T07:12:47.138293+00:00",
+      "analyzed_at": "2026-11-22T07:12:47.138293+00:00",
+      "findings": [
+        {
+          "module": "M3",
+          "text": "Sygnał rekomendacji dopasowanej do odbiorcy dotyczącej instrumentu.",
+          "points": 85,
+          "rule_id": null,
+          "quotes": [
+            "Oferuję indywidualne rekomendacje. Na podstawie twojej sytuacji powiem, które fundusze sprzedać."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2e8d92d4df8e",
+      "title": "Plan na środki po sprzedaży mieszkania",
+      "actor": "sym_spokojny_kapital",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M3"
+      ],
+      "risk": "HIGH",
+      "score": 85,
+      "companies": [],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:11:23.656709+00:00",
+      "last_seen": "2026-11-22T07:12:02.893946+00:00",
+      "analyzed_at": "2026-11-22T07:12:02.893946+00:00",
+      "findings": [
+        {
+          "module": "M3",
+          "text": "Sygnał rekomendacji dopasowanej do odbiorcy dotyczącej instrumentu.",
+          "points": 85,
+          "rule_id": null,
+          "quotes": [
+            "Oferuję doradztwo inwestycyjne. Na podstawie twojej sytuacji wskażę, które ETF-y kupić."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec6b9d2f4718",
+      "title": "Porządkowanie portfela po zmianie pracy",
+      "actor": "sym_analiza_wieczorem",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M3"
+      ],
+      "risk": "HIGH",
+      "score": 85,
+      "companies": [],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:10:42.972526+00:00",
+      "last_seen": "2026-11-22T07:11:22.548854+00:00",
+      "analyzed_at": "2026-11-22T07:11:22.548854+00:00",
+      "findings": [
+        {
+          "module": "M3",
+          "text": "Sygnał rekomendacji dopasowanej do odbiorcy dotyczącej instrumentu.",
+          "points": 85,
+          "rule_id": null,
+          "quotes": [
+            "Oferuję doradztwo inwestycyjne. Na podstawie twojej sytuacji powiem, które obligacje sprzedać."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc5aa4c2ff26",
+      "title": "Terminy na indywidualną konsultację",
+      "actor": "sym_portfel_po_pracy",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M3"
+      ],
+      "risk": "HIGH",
+      "score": 85,
+      "companies": [],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:08:57.114889+00:00",
+      "last_seen": "2026-11-22T07:10:41.769442+00:00",
+      "analyzed_at": "2026-11-22T07:10:41.769442+00:00",
+      "findings": [
+        {
+          "module": "M3",
+          "text": "Sygnał rekomendacji dopasowanej do odbiorcy dotyczącej instrumentu.",
+          "points": 85,
+          "rule_id": null,
+          "quotes": [
+            "Oferuję indywidualne rekomendacje. Na podstawie twojej sytuacji wskażę, które akcje kupić."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62bb630eff6c",
+      "title": "Wynik strategii na wykresie",
+      "actor": "sym_latarnia_demo",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M2"
+      ],
+      "risk": "MEDIUM",
+      "score": 65,
+      "companies": [
+        {
+          "name": "Dom Inwestycyjny Latarnia Demo"
+        }
+      ],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:07:34.429032+00:00",
+      "last_seen": "2026-11-22T07:08:18.195624+00:00",
+      "analyzed_at": "2026-11-22T07:08:18.195624+00:00",
+      "findings": [
+        {
+          "module": "M2",
+          "text": "Ryzyko obok korzyści. Przy co najmniej jednej obietnicy korzyści nie odczytano ostrzeżenia.",
+          "points": 65,
+          "rule_id": "R03",
+          "quotes": [
+            "procent zysku. Otwórz konto i"
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Oznaczenie reklamy. Oznaczenia nie znaleziono w dostępnej próbce.",
+          "points": 15,
+          "rule_id": "R02",
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Załóż konto maklerskie, skorzystaj z kodu PORTFEL."
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Załóż konto maklerskie, skorzystaj z kodu PORTFEL."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56284f3e2a27",
+      "title": "Rachunek bez prowizji",
+      "actor": "sym_latarnia_demo",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M2"
+      ],
+      "risk": "MEDIUM",
+      "score": 65,
+      "companies": [
+        {
+          "name": "Dom Inwestycyjny Latarnia Demo"
+        }
+      ],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:05:52.718054+00:00",
+      "last_seen": "2026-11-22T07:07:32.986101+00:00",
+      "analyzed_at": "2026-11-22T07:07:32.986101+00:00",
+      "findings": [
+        {
+          "module": "M2",
+          "text": "Ryzyko obok korzyści. Przy co najmniej jednej obietnicy korzyści nie odczytano ostrzeżenia.",
+          "points": 65,
+          "rule_id": "R03",
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Otwórz rachunek maklerski i odbierz 120 zł bonusu."
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Oznaczenie reklamy. Oznaczenia nie znaleziono w dostępnej próbce.",
+          "points": 15,
+          "rule_id": "R02",
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Otwórz rachunek maklerski i odbierz 120 zł bonusu."
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Porównania produktów. Wykryto nieuzasadnione w próbce twierdzenie o przewadze. Sprawdź, czy stanowi porównanie produktów lub usług.",
+          "points": 15,
+          "rule_id": "R11",
+          "quotes": [
+            "Najlepsza oferta inwestycyjna"
+          ]
+        },
+        {
+          "module": "M2",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Dom Inwestycyjny Latarnia Demo. Otwórz rachunek maklerski i odbierz 120 zł bonusu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e35c2a29a11",
+      "title": "Rachunek w podróży",
+      "actor": "sym_pod_pociagiem",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M1"
+      ],
+      "risk": "LOW",
+      "score": 8,
+      "companies": [
+        {
+          "name": "Dom Inwestycyjny Latarnia Demo"
+        }
+      ],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:04:40.833459+00:00",
+      "last_seen": "2026-11-22T07:05:32.270723+00:00",
+      "analyzed_at": "2026-11-22T07:05:32.270723+00:00",
+      "findings": [
+        {
+          "module": "M1",
+          "text": "Oficjalna nazwa firmy. Zweryfikuj pełną nazwę firmy i jej status.",
+          "points": 8,
+          "rule_id": "R01",
+          "quotes": [
+            "Materiał sponsorowany. Płatna współpraca z Domem Inwestycyjnym Latarnia Demo."
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Materiał sponsorowany. Płatna współpraca z Domem Inwestycyjnym Latarnia Demo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5bee206f93a4",
+      "title": "Jak ustawiam aplikacje",
+      "actor": "sym_mila",
+      "mode": "SIMULATION",
+      "source": "LOCAL_FEED",
+      "kind": "SIMULATED_POST",
+      "modules": [
+        "M1"
+      ],
+      "risk": "MEDIUM",
+      "score": 65,
+      "companies": [],
+      "url": "",
+      "published": "",
+      "first_seen": "2026-11-22T07:02:54.949664+00:00",
+      "last_seen": "2026-11-22T07:04:39.660601+00:00",
+      "analyzed_at": "2026-11-22T07:04:39.660601+00:00",
+      "findings": [
+        {
+          "module": "M1",
+          "text": "Ryzyko obok korzyści. Przy co najmniej jednej obietnicy korzyści nie odczytano ostrzeżenia.",
+          "points": 65,
+          "rule_id": "R03",
+          "quotes": [
+            "Użyj mojego kodu mila, żeby dostać 100 zł bonusu."
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Oznaczenie reklamy. Oznaczenia nie znaleziono w dostępnej próbce.",
+          "points": 15,
+          "rule_id": "R02",
+          "quotes": [
+            "Załóż konto Maklerskie w latarni DEMO."
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Oficjalna nazwa firmy. Zweryfikuj pełną nazwę firmy i jej status.",
+          "points": 8,
+          "rule_id": "R01",
+          "quotes": [
+            "Załóż konto Maklerskie w latarni DEMO."
+          ]
+        },
+        {
+          "module": "M1",
+          "text": "Wykryto zachętę promocyjną w kontekście finansowym.",
+          "points": 0,
+          "rule_id": null,
+          "quotes": [
+            "Załóż konto Maklerskie w latarni DEMO."
+          ]
+        }
+      ]
+    }
+  ]
+}
